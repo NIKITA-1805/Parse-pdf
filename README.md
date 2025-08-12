@@ -13,10 +13,9 @@ chat_with_pdf/
 │── README.md            # Project documentation
 ## ⚙️ Installation & Setup
 1️⃣ Clone the repository  
-git clone https://github.com/your-username/chat-with-pdf.git  
+git clone https://github.com/NIKITA-1805/Parse-pdf  
 cd chat-with-pdf  
-2️⃣ Install dependencies  
-pip install -r requirements.txt  
+2️⃣ Install dependencies   
 3️⃣ Set up environment variables  
 Create a `.env` file in the root directory:  
 OPENAI_API_KEY=your_openai_api_key_here  
