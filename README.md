@@ -7,10 +7,8 @@ This project is an **end-to-end Retrieval-Augmented Generation (RAG) application
 - **Frontend + Backend:** [Streamlit](https://streamlit.io/) - **Embeddings:** [Sentence Transformers](https://www.sbert.net/) (`all-MiniLM-L6-v2`) - **Vector Store:** [FAISS](https://github.com/facebookresearch/faiss) - **LLM:** [OpenAI API](https://platform.openai.com/) - **PDF Processing:** [PyPDF2](https://pypi.org/project/PyPDF2/)
 ## 📂 Project Structure
 chat_with_pdf/  
-│── app.py               # Main Streamlit app  
-│── utils.py             # PDF processing & embedding helpers  
-│── requirements.txt     # Dependencies  
-│── README.md            # Project documentation
+│── ParsePDF.ipnyb
+│── README.md
 ## ⚙️ Installation & Setup
 1️⃣ Clone the repository  
 git clone https://github.com/NIKITA-1805/Parse-pdf  
